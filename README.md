@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm P.G.A.I.Sandamini</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka.</h3>
+<h3 align="center">I'm a undergraduate student in Information & communication Technology Degree Program</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isurika030" alt="isurika030" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **isurikasandamini2001@gmai.com**
 
-- ⚡ Fun fact **I think I am Honest**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
